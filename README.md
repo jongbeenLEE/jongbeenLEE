@@ -43,17 +43,17 @@ Here are some ideas to get you started:
 ### 개발이력 
 - 2025.11.10 ~ 한국정보교육원 생성형 AI 풀스택 수업 수강중
 
-- 🌱 현재: **Java · Spring Boot · React** 중심으로 프로젝트 진행
-- 🎯 목표: **실무형 풀스택 개발자 취업**
-- 🧩 관심: 백엔드 아키텍처 / 배포(Docker, AWS) / 협업(Git)
-
 ---
 
 ## 🛠 Tech Stack
 
-### 🔹 Backend
+### 🔹 Language
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 🔹 Backend
 ![Spring](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge)
@@ -101,13 +101,13 @@ Here are some ideas to get you started:
 ## 📌 Featured Projects
 > 여기에 “대표 프로젝트 2~4개”만 박아두면 요즘 스타일로 엄청 좋아 보여.
 
-- ✅ **Project 1**: (예: Spring Boot REST API / JWT 로그인 / CRUD)  
-  - Repo: https://github.com/YOUR_GITHUB_ID/PROJECT_REPO  
-  - Stack: Spring Boot, MySQL, Docker
+- ✅ **Project 1**: ()  
+  - Repo: 
+  - Stack: 
 
-- ✅ **Project 2**: (예: React 프론트 + 백엔드 연동)  
-  - Repo: https://github.com/YOUR_GITHUB_ID/PROJECT_REPO  
-  - Stack: React, JavaScript, API
+- ✅ **Project 2**: ()  
+  - Repo: 
+  - Stack: 
 
 ---
 
